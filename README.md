@@ -34,7 +34,7 @@ Deploy your own React project, along with Serverless Functions, with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
 
-_Live Example: https://create-react-app.now-examples.now.sh/_
+_Live Example: https://www.youtube.com/watch?v=tLHIVsEqWrY_
 
 
 

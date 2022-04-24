@@ -8,27 +8,25 @@
 
 - Component Simple Base
 
+### Installation
+
 ``` 
 npm install 
 ```
 
-### Run Development
+## Run Development
 ```
-npm start
-```
-
-## If you need an enviroment variable & run HTTPS on local, please follow these steps
-### Create `.env` file 
-```
-touch .env
-```
-set your variable in `.env` file
-### Run development
-
-```
-make start
+npm run start
 ```
 
+## Run Build
+```
+npm install -g serve
+npm run build
+serve -s build
+```
+
+### Deploy 
 
 Deploy your own React project, along with Serverless Functions, with Vercel.
 
@@ -38,7 +36,5 @@ _Live Example: https://www.youtube.com/watch?v=tLHIVsEqWrY_
 
 
 
-
 - Author - [Ricky Ariansyah](https://linkedin.com/in/rickyarians/)
-### Installation
 

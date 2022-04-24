@@ -12,7 +12,7 @@
 
 <p float="left">
  <img src="https://i.ibb.co/Scd4bQV/screencapture-localhost-3001-2022-04-24-09-38-06.png"  alt="Home"/>
-
+ <img src="https://i.ibb.co/kMK509c/screencapture-localhost-3001-2022-04-24-09-42-13.png"  alt="Home"/>
 </p>
 
 ### Installation
